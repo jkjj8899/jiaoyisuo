@@ -31,8 +31,8 @@ BT-Exchange 是一个支持现货交易、合约交易和期权交易的加密�
 - **K 线图表**：采用 **ECharts** 或 **TradingView** 插件，提供专业级的行情分析工具。
 - **API 交互**：前端通过 **RESTful API + WebSocket** 与后端服务器通信，确保数据高效传输。
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/747b92f8-f31c-4e65-bb9d-963b6a09af30" width="45%"height="950px">
-  <img src="https://github.com/user-attachments/assets/14acfdaf-3445-4a27-8198-a48b10a8a891" width="45%"height="950px">
+  <img src="https://github.com/user-attachments/assets/747b92f8-f31c-4e65-bb9d-963b6a09af30" width="45%"height="900px">
+  <img src="https://github.com/user-attachments/assets/14acfdaf-3445-4a27-8198-a48b10a8a891" width="45%"height="900px">
 </p>
 
 
@@ -59,8 +59,8 @@ BT-Exchange 是一个支持现货交易、合约交易和期权交易的加密�
 - **交易方式**：用户可选择 **看涨（买入）或看跌（卖出）**。
 - **自动结算**：系统根据市场价格，自动计算盈利或亏损，并结算到用户账户。
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/160d7035-346d-4839-be7d-2f008defd8fd" width="45%"height="950px">
-  <img src="https://github.com/user-attachments/assets/045d54e6-ccad-4c2f-be5b-fe2a65035953" width="45%"height="950px">
+  <img src="https://github.com/user-attachments/assets/160d7035-346d-4839-be7d-2f008defd8fd" width="45%"height="900px">
+  <img src="https://github.com/user-attachments/assets/045d54e6-ccad-4c2f-be5b-fe2a65035953" width="45%"height="900px">
 </p>
 
 ---
@@ -71,8 +71,8 @@ BT-Exchange 是一个支持现货交易、合约交易和期权交易的加密�
 - **热钱包（Hot Wallet）**：少量资金存放在热钱包，方便用户快速提现。
 - **多重签名（Multi-Signature）**：提现时需要多个管理员共同授权，防止恶意操作。
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/04e3a59c-cabf-45d0-8db2-f65cff0edd81" width="45%"height="950px">
-  <img src="https://github.com/user-attachments/assets/32c4317c-63c1-46e5-8deb-b702ba43990d" width="45%"height="950px">
+  <img src="https://github.com/user-attachments/assets/04e3a59c-cabf-45d0-8db2-f65cff0edd81" width="45%"height="900px">
+  <img src="https://github.com/user-attachments/assets/32c4317c-63c1-46e5-8deb-b702ba43990d" width="45%"height="900px">
 </p>
 
 
